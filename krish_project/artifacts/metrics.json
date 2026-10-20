@@ -1,0 +1,19 @@
+{
+  "cv_roc_auc_mean": 0.9884,
+  "cv_roc_auc_std": 0.0036,
+  "accuracy": 0.962,
+  "f1_weighted": 0.9621,
+  "f1_macro": 0.9585,
+  "roc_auc": 0.9951,
+  "confusion_matrix": [
+    [
+      335,
+      14
+    ],
+    [
+      24,
+      627
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n           0       0.93      0.96      0.95       349\n           1       0.98      0.96      0.97       651\n\n    accuracy                           0.96      1000\n   macro avg       0.96      0.96      0.96      1000\nweighted avg       0.96      0.96      0.96      1000\n"
+}
